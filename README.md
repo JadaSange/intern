@@ -245,6 +245,10 @@ Intern collects no telemetry. What leaves your machine:
 
 Sessions are journaled, and memory kept, on your machine in `~/.intern/`.
 
+## Hackathon projects
+
+- [Drex Poker Arena](examples/drex-poker-arena/README.md): five Drex-powered poker bots with different personalities that read, bluff and exploit each other, with a brain-peek view of every decision, an arena benchmark against an LLM, and an evolution mode.
+
 ## Contributing
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first: one concern per PR, and evidence for any changed default.

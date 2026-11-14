@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# local env / caches
+.venv/
+__pycache__/
+.vscode/
+.DS_Store
+
+# local run output + scratch
+last_arena.json
+last_benchmark.json
+last_evolution.json
+_to_delete/
+*_test.txt
+*openapi.json
+you_profile.json
+bankroll.json
